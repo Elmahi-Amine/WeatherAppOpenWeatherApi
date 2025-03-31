@@ -79,8 +79,19 @@ body{
 .col .wind_icon{
     width: 50%;
     height:100%;
+    
+
 }
 .col .humidity_icon{
     width :50%;
     height:100%;
+}
+.col{
+    
+    align-items:center;
+    text-align:center;
+}
+.humidity, .wind{
+    font-size:28px;
+    margin-top:-6px;
 }
